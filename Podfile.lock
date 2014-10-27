@@ -1,0 +1,23 @@
+PODS:
+  - 500px-iOS-api (1.0.5)
+  - MagicalRecord (2.2):
+    - MagicalRecord/Core
+  - MagicalRecord/Core (2.2)
+  - MBProgressHUD (0.9)
+  - SDWebImage (3.7.1):
+    - SDWebImage/Core
+  - SDWebImage/Core (3.7.1)
+
+DEPENDENCIES:
+  - 500px-iOS-api
+  - MagicalRecord
+  - MBProgressHUD
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  500px-iOS-api: f3d2933143178565d499977fb18f1730d6a33376
+  MagicalRecord: 2b471584fc9e3137f3d0a56967917baa4979e224
+  MBProgressHUD: 2038dbcf3dce73215abed6001657043d53aa79a8
+  SDWebImage: 116e88633b5b416ea0ca4b334a4ac59cf72dd38d
+
+COCOAPODS: 0.34.1
