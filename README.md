@@ -1,4 +1,7 @@
-ViewerFor500px
+ViewerFor5∞
 ==============
 
-Simple photo viewer for 500 px
+Simple photo viewer for 5∞
+
+- brew install mogenerator
+- pod install
